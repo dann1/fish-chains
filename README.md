@@ -20,6 +20,7 @@ If the current line is empty, it will do the same thing to the most recent histo
 #### License
 
 2015-2017 [ISC] @ [Itzik Ephraim]
+
 Commits e45d168 and 0928ab2: 2017 [ISC] @ [Chloe Kudryavtsev]
 
 [sudo plugin]: https://github.com/robbyrussell/oh-my-zsh/tree/master/plugins/sudo
