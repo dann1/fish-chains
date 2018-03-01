@@ -1,4 +1,4 @@
-## sudope Plugin for Fish Shell
+## proxychains Plugin for Fish Shell
 
 ### About
 
